@@ -4,7 +4,6 @@
 
 *.actual.js
 *.actual.html
-/generated
 
 *-actual*
 actual.*
